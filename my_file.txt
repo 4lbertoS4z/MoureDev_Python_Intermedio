@@ -1,0 +1,6 @@
+Mi nombre es Alberto
+Mi apellido es S
+33 años
+Y mi lenguaje preferido es Python
+Aunque también me gusta Kotlin
+Y Flutter
